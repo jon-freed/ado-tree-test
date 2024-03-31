@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "azure-devops-ui": "2.236.0",
+    "react": "16.8.1",
+    "react-dom": "16.8.1",
+    "react-scripts": "2.0.3"
+  },
+  "main": "index.tsx",
+  "name": "gt2zz9",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
